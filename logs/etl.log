@@ -1,0 +1,5 @@
+2024-01-04 04:14:31,477 - INFO - ETL process started.
+2024-01-04 04:14:31,478 - INFO - Scraper successfully.
+2024-01-04 04:14:31,490 - INFO - Extract successfully.
+2024-01-04 04:14:31,887 - INFO - Transform successfully.
+2024-01-04 04:14:31,892 - INFO - Load successfully.
