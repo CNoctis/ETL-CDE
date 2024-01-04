@@ -25,6 +25,11 @@ Este repositorio contiene un proceso ETL (Extract, Transform, Load) implementado
     pip install -r requirements.txt
     ```
 
+4. Instala las dependencias necesarias de playwright:
+    ```bash
+    playwright install
+    ```
+
 ## Uso
 
 Para ejecutar el proceso ETL, sigue estos pasos:
